@@ -59,4 +59,4 @@ treinamento com o fine-tuning.
 
 - Documento está no PDF contido nesse repositório.
 - O Código fonte explicado está nos arquivos notebooks "fine_tuning.ipynb" e "fine_tuning_with_source.ipynb" em que o primeiro referece a primeira versão e o segundo sendo a última feita com melhoria de inclusão de source, conforme mencionado no vídeo e no documento.
-- Link do vídeo: 
+- Link do vídeo: https://www.youtube.com/watch?v=5tk9BoeW3zQ
